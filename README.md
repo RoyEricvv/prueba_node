@@ -1,2 +1,2 @@
 # prueba_node
-Practice abour Node
+Practice about Node
